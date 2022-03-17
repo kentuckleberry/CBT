@@ -1,0 +1,58 @@
+Key Components:
+	- Smart Contract 
+	- Interface
+	- Functions
+	- Arguments
+	- Initial Loan Agreement 
+	- Transactions
+	- Donations.lib
+	- Events	
+	- 'Savings Account for the Future'
+	- Core Values: Art, Science, and Medicine
+
+
+Smart Contract: (1) Initializes Sign Up feature in Interface to setup PayOut function and (2) Implements dynamic Variables of Application with Cardinal Directional Confirmation script. Lastly, (3) compiles and stores public Ledger data.
+
+Interface: (1) Conveniently access the Application functions with a smartphone, tablet, or computer. (2) 'Crypto for Dummies' contract navigation, step by step, as well as (3) Advanced User Command with (4) QR quickScan for those accessing data remotely
+
+Functions: (1) new ttransaction (2) New user (3) deposit/withdrawal (4) Donate (5) add file (6) purchase file/token (7) getStock (?/100) (8) redeem tokens (9) checksum (10) vote/ballot (11) Recieve Alloted Donation Request 
+
+Arguments: (1) If msg.sender sends functReStock() is NOT OWNER, then Return 'Only Owner can RESTOCK this Machine' (2) If msg.sender getCBTBalances() is NOT OWNER, then Return 'Only OWNER can get CBT Balances' (3) If VTXO and Time strand data are present on reciept, then this Inneraction is Final and CANNOT be recreated under any circumstance due to the nature of Unpredictable markets and price differentials (4) When Machine is DOWN for {24 hour interval}, log que of Users that attempted use and notify them of their place in Que (5) If Minimum Wage in the USA increases above $22.50/hr, Payrate of Owner (Thomas Levi Cox) is halved and the expected Net Gains are Donated Specifically to {Insert Organization of choice}
+
+Initial Loan Agreements: (1) The User signs an initial agreement that covers the basics of their interaction and it states those conditions listed in Master File.json<github Repo> (2) This initial contract is to fund their experience through the application and provides the incentive to Donate Gains elsewhere. (3) This initial contact loan is public but inputs are encrypted once data passes our Front Line on the interface. You cannot specifically see witch User donated to witch Cause without the private seed phrase of the User's wallet, the VTXO of a previous TXN, and the QR quick scan (3 step Auth) [Arbatrage Agreement 1]
+
+Transactions: 
+
+"txN": "--"
+"txNE": "--"
+"txE": "--"
+"txSE": "--"
+"txS": "--"
+"txSW": "--"
+"txW": "--"
+"txNW": "--"
+"Value": "--CBT--"
+"returnReciept": "--"
+"tipjar": "--" -----> prompt POCKET/NO CHANGE
+
+if POCKET then ---> "publicCBTtransferOUT": "Pubkey" -> confirm and save
+
+if NO CHANGE then ---> "publicCBTDonationIn": "hash160{(private phrase) + (scripthash)
+	getAddress(msg.sender) public payable;
+	sumbit(msg.sender) address log(DonationsIn.lib)// public ledger
+	generateTxReciept = VTXO // Personal User Input Time Strand Data Event Authorization 3 passed { Use as input to access stored files}
+
+RegisteredDonationReserve [donations.lib] = (1) Repository of All approved addresses to be randomly selected and recieve Donation FROM DecResArtScMed. (2) Only Addresses that agree to be added to this list will be added after confirmation. (3) Users can vote in to add a cause or an organization and if enough support exists, either the owner or someone under the direct Team of the contract Owner will reach out using a leading user in the poll as an ambassador/translator/intnetion setter. (5) All donations happen anonymously for public ledger and (6) all private information is provided with the resulting CBT reciept after transaction is validated in our system. 
+
+Events: (1) LIVE EVENTS will be a huge aspect of this interface in the coming future but for now, let's keep it simple and say the event is " Instant Profit for individuals and exponential support for Projects with pure intentions.." (2) Hosted Events will have giveaways, incentives, FAQs, write ins, and all that cool jazz. We're working as hard as we can!
+
+Savings Account for the Future: As if paying Users to store their data for free isn't enough, there is a special allocation function in the Protocol that Sets aside %10 of TOTAL TRANSACTION VALUE {initial contract revenue + initial deposit + msg.sender(CBTBalance)} and depositis whatever the native currency is into a Multi Wallet titled "pReserve the Future" and it will use the getRandom() function to compile an Ad essentially saying " Hey, check this out. We're depleting funds from "pReserve the Future" [value ~$xxx,xxx] and using them to start a Non profit that..."insert real life application here.." 
+
+The savings account is a bit of a stretch, but I'm willing to find the aspects that don't work first while I'm dreaming big. 
+
+Core Values: What we stand for is Directly in the name... a monetary Reserve for Arts, Science, and Medicine. More and more people are tuning into vibrational healing, frequencies, new ways to manage or function with Atypical learnbnig behaviors, unbalanced brain chemistries, lack of guidfance, down right difficult life circumstances, and now Money isn't even Money anymore... but really.
+
+Let Artists be Artists. Let Scienctists heat things up over time and cool them down without a vacuum. Let Medicine do the medicating. These branches of society are essential for the health, culture, and well being of its people. I dare say, however, just like the essential workers the last couple of years, they are what's most at risk. Personally, I know several artists that will never get the recognition I feel they deserve. and It's due to the lack of practical language skills that is neccessitated when entering the digital currency market. 
+
+I want them to feel like they succceeded. I want people to feel like they have a resource (library), a platform (radio/TV), and a purpose (Drive/motivation) when using this interface. Only YOU can determine your Self Worth. We're here to match you and then some because we BELIEVE in you that much. Let's create something new.
+******************************************************************************   
