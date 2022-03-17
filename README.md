@@ -3,7 +3,7 @@ Master file
 
 
 https://github.com/kentuckleberry { 
-	personal acces token (FreePass) = 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
+	personal acces token (FreePass) hash = 6a36d5e9cfccdd1a68ae628d1b5e4296
 	
 
 https://docs.etherscan.io/tutorials/read-write-smart-contracts
