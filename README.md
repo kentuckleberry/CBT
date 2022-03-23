@@ -1,4 +1,4 @@
-# CBT
+# (CBT) Cosmic Barter Token to fund the Decentralized Reserve for Arts, Science, and Medicine
 Master file
 
 
